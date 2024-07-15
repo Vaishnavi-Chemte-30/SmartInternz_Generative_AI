@@ -1,0 +1,16 @@
+"""
+streamlit: Streamlit is a powerful framework for building interactive web applications with Python.
+streamlit_extras: Additional utilities and enhancements for Streamlit applications.
+google-generativeai: Python client library for accessing the GenerativeAI API, facilitating interactions
+    with pre-trained language models like Gemini Pro.
+python-dotenv: Python-dotenv allows you to manage environment variables stored in a .env file for your 
+    Python projects.
+PyPDF2: It is a Python library for extracting text and manipulating PDF documents.
+Pillow: Pillow is a Python Imaging Library (PIL) fork that adds support for opening, manipulating, and 
+saving many different image file formats.
+"""
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+Pillow
